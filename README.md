@@ -1,8 +1,8 @@
 # Overview
 
-In this Module02 "R Programming" Module, This application is a console-based C++ program that allows users to manage employee records, including personal and work-related details. This system will support functions like adding new employees, listing all employees, generating reports, and saving/loading data from a file.
+In this Module02 I did choose R Programming. This software will analyze employee salary data for the PGG office. It will load data from a spreadsheet, process and explore salaries, generate statistics, and visualize trends such as salary distribution by designation and gender. The script will use multiple R features such as dataframes, loops, lists, and control structures like case_when. Output will be printed to the console and optionally visualized using charts.
 
-The purpose of creating this software is to demonstrate basic skills in R Programming like it's installation..... 
+The purpose of creating this software is to demonstrate basic skills in R Programming like it's installation (R and its packages), data manipulation, and visualization. The software will be used to analyze and visualize simple employee data, providing insights into salary distributions and trends.
 
 # Development Environment
 
@@ -14,6 +14,8 @@ The purpose of creating this software is to demonstrate basic skills in R Progra
 # Programming Languages Used
 
 - **R Programming**
+
+# Useful Websites
 
 Make a list of websites that you found helpful in this project
 

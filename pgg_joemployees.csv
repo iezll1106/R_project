@@ -1,0 +1,724 @@
+name,office,designation,charges,rate_day,days, total_salary ,gender
+"Amante, Louie Jee",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Degillo, Mary Heart",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Edang, Cornelio",PAdminO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Galfo, Grace",PAdminO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Galvez, Jose Juvy",PAdminO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Ganila, Cyra M.",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gedalanga, Jessica",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Infante, Paul Greg G.",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Pedregosa, Ever",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Rodriguez, Danilo",PAdminO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Tacuyan, James Benedict",PAdminO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Salarda, Stenellie",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Velagio, Lea",PAdminO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Verde, Charry G.",PAdminO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Pugao, Grace",HRMDS,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gustilo, Sheryl Anne Joy",HRMDS,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Macaya, Beverly Z.",HRMDS,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Agenga, Lester Val S.",HRMDS,Admin. Assistant,General Services,375.00/day,66,"24,750.00",M
+"Maguad, Goddiel L.",HRMDS,IT Personnel,General Services,420.00/day,66,"27,720.00",F
+"Inducta, Zynnel Faith T.",HRMDS,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Camarig, Darlyn",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Esponilla, Steve",PAcctgO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"Galanto, May",PAcctgO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Galon, Roldan, Jr.",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",M
+"Lizardo, Merlin",PAcctgO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"Naldoza, Mary Jean",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Pulmones, Conie Rose E.",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Salazar, Roger",PAcctgO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"Tindoc, Joselito Jr.",PAcctgO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"Undar, Mechelle",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Ibieza, Sheila G.",PAcctgO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Buenasalbas, Analiza C.",PAssO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Domingo, Geddy Job G",PAssO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Galon, Ronielyn",PAssO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Jardeleza, Rosalie",PAssO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Pecillar, Jonmar",PAssO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Apellado, Joy",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Alojado, Michael",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",M
+"Dormis, Carmela",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Gaitan, Julie Ann",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Pacardo, Ranell",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",M
+"Pastelero, Terrence",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",M
+"Provido, Kyla Marie",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Refil, Blessie",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Talaban, Gilly Jay",PAssO,Admin Assistant,SPP General RRPAPC,375.00/day,66,"24,750.00",F
+"Deximo, Susie",GO,Laborer,General Services,375.00/day,66,"24,750.00",F
+"Madrelijos, Braziel",GO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Garmay, Luceo",GO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Alla, Ma. Lovella",GO,Admin. Assistant,PIRP (GO),375.00/day,66,"24,750.00",F
+"Dologmanding, John Christian",GO,Admin. Assistant,PIRP (GO),375.00/day,66,"24,750.00",M
+"Blanco, Ma. Paz",GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Pecillar, Arvie J.",GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Garcia, Ymarie Velvet",GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gonzaga, Pedcy",GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Lim, Justine Joy",GO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Jover, John Michael",GO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Gange, Leonila",GO,Laborer,General Services,375.00/day,66,"24,750.00",F
+"Garrovillo, Jess Mar",GO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Yanguas, Stephanie ",GO,Laborer,General Services,375.00/day,66,"24,750.00",F
+"Tayson, Josephine",GO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Yanguas, Mary Ann Jean",GO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Gepolongca, Daniel",GO/ICT,IT Personnel,Establishment of Management Information System (MIS),420.00/day,66,"27,720.00",M
+"Morada, Jay Ann",GO/ICT,IT Personnel,Establishment of Management Information System (MIS),420.00/day,66,"27,720.00",F
+"Tienda, Janette",GO/ICT,IT Personnel,Establishment of Management Information System (MIS),420.00/day,66,"27,720.00",F
+"Patnubay, Scarlette",DILG/GO,Admin. Assistant,Peace and Order 2025,375.00/day,66,"24,750.00",F
+"Gallego, Jesus",DILG/GO,Driver,Peace and Order 2025,400.00/day,66,"26,400.00",M
+"Mandal, Hannah Mae",PPO,Data Encoder,Peace and Order 2025,345.00/day,66,"22,770.00",F
+"Loma, Ruby",LTO,Admin. Assistant,Peace and Order 2025,375.00/day,66,"24,750.00",F
+"Baylon, Gerald",LTO,Admin. Assistant,Peace and Order 2025,375.00/day,66,"24,750.00",M
+"Tordillos, Jebson",LTO,Admin. Assistant,Peace and Order 2025,375.00/day,66,"24,750.00",M
+"Gaitan, Jobeth",GO/GPPO,Utility Worker,Peace and Order 2025,345.00/day,66,"22,770.00",M
+"Gallo, Bernaldo Jr",GO/GPPO,Skilled Laborer,Peace and Order 2025,400.00/day,66,"26,400.00",M
+"Pabilona, Arjonel",GO/GPPO,Skilled Laborer,Peace and Order 2025,400.00/day,66,"26,400.00",M
+"Sorongon, Roy",GO/GPPO,Skilled Laborer,Peace and Order 2025,400.00/day,66,"26,400.00",M
+"Badajos, Jacquilyn",GO/GPPO,Utility Worker,Peace and Order 2025,345.00/day,66,"22,770.00",F
+"Amunategui, Agosto",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Castilla, Jana Joy",PVSO,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Espartero, Lorna",PVSO,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Ga, Maylyn",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Galve, Jubel",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Gencianeo, Marsy",PVSO,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Luhan, Judy",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Pabraquel, Ernesto",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Ramos, Roberto Jr.",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Segovia, Jay",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Sorongon, Val Gabriel",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Rojo, Marissa B.",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Suarez, Diomel G.",PVSO,Veterinary Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Ti�as, Jamila",PVSO,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Cabajaga, Dioscoro",POAS,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Calantoc, Gemma May I. ",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Camarines, Rhea Mae M.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Castilla, Rhon Keo M.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"Cordero, Filbert F.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"de la Cruz, Krystel Anne R. ",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"De Leon, Jennelen E.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Eluriaga, Vincent Paul T.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Espenitra, Yvony G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Gabasa, Joenathan N.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Gabasa, Ma. Julie Balderie E.",POAS,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Galila, Angelito P.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Gallego, Rey G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"Gallentes, Delilah E.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Galve, Rey P.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Galvez, Geffrey Ian V.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Gantala, Jelie Grace G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Garrovillo, Daniel L. ",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Gatmaitan, Ino Vincent Czar P.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"Gedalanga, Genevie G.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Gemudiano, Dee Ann G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Genanda, Fretzel Jean G",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Genisan, Jonathan G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"Gonzales, Mira G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Haba�a, Lino M.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Nares, Michelle C.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Nava, Mark Anthony",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Nono, Mary Rose",POAS,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Notada, Ali Jahn",POAS,Heavy Equipment Operator,General Services,475.00/day,66,"31,350.00",M
+"Pajarito, Diana Ruth H.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Septimo, Rea Joy D.                                                                                                       ",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Segovia, April Joy G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Sepulvida, Joenary J.",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",F
+"Sungkiat, Jean C.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Tahum, Prince V.   ",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Tanaleon, JB T.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",M
+"Tibobos, Rea Barby G.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Vicencio, Jei Allen R.",POAS,Project Coordinator,General Services,375.00/day,66,"24,750.00",F
+"Ydullan, Alejandro G. ",POAS,Quarantine Inspector,General Services,375.00/day,66,"24,750.00",M
+"Bendabal, Analou",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Cabaguason, Evan",GENRO,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Cebu, Rowena",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",F
+"Erme, Lezyl",GENRO,Admin Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Galampanao, Ryan Jan",GENRO,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Galia, Kenneth",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",M
+"Galve, Abbygail",GENRO,Admin Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Ganancial, Amelyn",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Gange, Lorenza ",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",F
+"Gravo, Shiena Marie",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Gayas, Meylen ",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",F
+"Magallanes, Jia",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+" Monreal, Raymundo III",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Prisas, Joden",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Tabaosares, Mary Faith",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Tanaleon, Leo ",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",M
+"Tayona, Edgardo",GENRO,Utility Worker,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",345.00/day,66,"22,770.00",M
+"Tubeza, Frederick",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Valdez, Carl Justin",GENRO,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Bungar, Jennifer",GAD,Admin. Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Aldea, Jayson",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Alzagon, Benedicto Jr.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Arcan, Romello Jr.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Arroyo, Ma. Elma",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Asong, Armand",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Auditor, Eduardo III",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Baitan, Maricel",PDRRMC,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Baldago, Kevin",PDRRMC,IT Personnel,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",420.00/day,66,"27,720.00",M
+"Baldostamon, Noel",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Bonilla, Ramil",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Capero, Judy Anne",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Caumban, Antonio",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Cordova, Jason",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Crudo, Ramel",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Davis, Godfrey",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Dela Puerta, Glennie Mhay",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Dicen, Ernie",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Dioquino, Ronald",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Domingo, Arsenio III",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Elosendo, Renan",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Estember, Jeddah Len",PDRRMC,Project Coordinator,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Estember, Rian",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Estologo, Kenny Bernie II",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ferrer, ER Nicko",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ferrer, Joemel",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Frondosa, Axel L.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Fuentebella, Hilbert John",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gadot, Wilmon",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Galiza, Nikko",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Gallego, John  Edzel",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gallego, Joshua",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gallentes, Bolganin",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Galleto, Kris Kirt Patrick",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gamino, Francis Jude",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ganancial, Mario Jr.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ganila, Jeric",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ganila, Mark Alvin",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Garalda, Martin Jared",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Garmay, John Paul G.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gaugano, Hans",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gayas, Reynante",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gemalague, Erol",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Gepilano, Reynaldo",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Geregale, Charie Mae",PDRRMC,Admin. Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Gonzaga, Hans Christian",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Gonzales, Anita",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Granada, Catherine",PDRRMC,Admin. Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Guihama, Lene Jr.",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Jallores, Jefrey",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Jancorda, Marlon",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Lamina, Menierva",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Lobaton, Paul John",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Macaya, Alvin John",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Mejica, Kevin John",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Misajon, Radin",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Morada, Greglin",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Narsico, Diorry Mae",PDRRMC,Research Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Niego, Rolando",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Noble, Carlo Jay",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Ortiz, Arvin Bryan",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Paltiguera, Mervin",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Pedrosa, Jan Micheal",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Poblacion, Joshua",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Punzalan, Micheal Angelo",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Remollata, Jonathan",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Ronzales, Ernie John",PDRRMC,Research Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Salarza, Justin Albert",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Sallegue, Jelyn Hope",PDRRMC,Admin. Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Saromay, Nestor",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Selorico, Renz Charles",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Sudate, Leona",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Sulit, Herrick",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Talagon, Emmanuel",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Torno, Pedro",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",M
+"Torres, Nicanor Vicente",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Tri�o, Quillo Mark",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Ulbidado, Girlie",PDRRMC,DRM Assistant,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",375.00/day,66,"24,750.00",F
+"Villanueva, Marlon",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Villaruel, Noel",PDRRMC,Driver,"GOGF PDRRMS Operation FY2025 (7,000,000.00)",400.00/day,66,"26,400.00",M
+"Ramos, Rone S. ",PBO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Segovia, Mary Grace",PBO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Estilo, Angelica",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",F
+"Martir, Ma. Xenia Pamela",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",F
+"Sabobo, Mary Joy",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",F
+"Segobre, Karl Dominic G. ",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",M
+"Tamson, Ma. Susette",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",F
+"Napano, Bea T.",PTreasurer,Administrative Assistant,General Services,375.00/day,66,"24,750.00",F
+"Abeto, Joel",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Amatorio, Divina",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Amatorio, Ofelia",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Blegario, Margie",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",F
+"Blegario, Rosemarie",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Buencuchillo, Noel",PGSO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",M
+"Calibu, Jon Jon",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Calimpay, Arjhon",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Deraper, Marianne Gail",PGSO,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Engallado, Nimfa",PGSO,Skilled Worker,General Services,400.00/day,66,"26,400.00",F
+"Espinosa, Cleo",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Esponilla, Gregorio",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Estember, Valen Antonee",PGSO,Electrician,General Services,500.00/day,66,"33,000.00",F
+"Faminogan, Ronel",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Francisco, Nhelo",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Fuentes, Mary June",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Gabasa, Ruchyl",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Gabayeron, Ronald",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Gallos, Jessica",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Galvez, Dionesio",PGSO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Galvez, Sunday",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Gange, Mark Adrian",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Gargaceran, Richie",PGSO,Electrician,General Services,500.00/day,66,"33,000.00",M
+"Genanda, Flora",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Gonzaga, Ronald",PGSO,Electrician,General Services,500.00/day,66,"33,000.00",M
+"Guile�o, Rodolfo",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Inventor, Joey",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Laborte, Aiza",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Latrez, Lyud Renato",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Laudato, Jean",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Lecta, Jenie",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Leyson, Winston, Jr.",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Magno, Allen",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",M
+"Marte, John Rey",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Monsale, Sef Rush",PGSO,Electrician,General Services,500.00/day,66,"33,000.00",M
+"Nava, Lea",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Robles, Friez Mar",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Robles, Joemar",PGSO,Carpenter,General Services,500.00/day,66,"33,000.00",M
+"Romualdo, Jan Philip",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Romualdo, Joseph",PGSO,Carpenter,General Services,500.00/day,66,"33,000.00",M
+"Sardonidos, Melarose",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Silvestre, Pinky",PGSO,Utility Worker,General Services,345.00/day,66,"22,770.00",F
+"Sumbang, Rhosalean Marie",PGSO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Sunalan, Elmero Jr.",PGSO,Electrician,General Services,500.00/day,66,"33,000.00",M
+"Teniclan, Butch",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Tuando, Brian",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Tumangan, Marietta",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",F
+"Venerable, Earl Christian",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Yanguas, Lee Reuben",PGSO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Yupo, Gerald",PGSO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Talabero, Analyn D.",GHIP,Community Development Worker,GHIP,475.00/day,66,"31,350.00",F
+"Galas, Joylyn S.",GHIP,Community Development Worker,GHIP,475.00/day,66,"31,350.00",F
+"Perez, Benedick G.",GHIP,Admin. Assistant (San Lorenzo),GHIP,375.00/day,66,"24,750.00",M
+"Arquilola, Neko G.",GHIP,Admin. Assistant (Buenavista),GHIP,375.00/day,66,"24,750.00",M
+"Amante, Heero Diommele G.",GHIP,Admin. Assistant (Jordan),GHIP,375.00/day,66,"24,750.00",M
+"Ello, Jhoanna Marie D.",GHIP,Admin. Assistant (Nueva Valencia),GHIP,375.00/day,66,"24,750.00",F
+"Asan, Florean D.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Monton, Rene Rio",PEDO,Administrative Assistant,General Services,375.00/day,66,"24,750.00",M
+"Cagayan, Mark Robert D.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Gadot, Jessa Mae L.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Hornoz, Hazel Joy  ",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Ortiz, Christian Antonio",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"Esma�a, Ronelie S.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Fuentes, Maeber Kates",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",M
+"De Asis, Joylene",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Galido, Perla",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Graciosa, Mary Jean",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Ortiz, Kristelle Anne",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Sadaba, Melady Jane Erica",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Temblador, Sylke G.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Trono, Devie M.",PEDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Bungar, Jennifer",GAD,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Escamillan, Ronilo",PHO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Inventor, Janet",PHO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Lazarito, Margie",PHO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Tahum, Michael",PHO,Pharmacy Aide,General Services,375.00/day,66,"24,750.00",M
+"Tanaleon, Jevey",PHO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",M
+"Gallentes, Mageline",PHO,Garbage Collector,General Services,375.00/day,66,"24,750.00",F
+"Garque, Jhay G.",PHO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",M
+"Sican, Yves Alfred",PHO,Radiologic Technologist,General Services,500.00/day,66,"33,000.00",M
+"Andre-e, Christian Aron L.",BEH,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Aldea, Jerwin G.",BEH,Garbage Collector,General Services,375.00/day,66,"24,750.00",M
+"Aquino,Jhasiel L.",BEH,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Arguelles, April Joy S.",BEH,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Bangcaya, Ruem John G.",BEH,Pharmacy Aide,General Services,375.00/day,66,"24,750.00",M
+"Basco, Shiena Mar P.",BEH,Nursing Attendant,General Services,375.00/day,66,"24,750.00",F
+"Calibjo, Don Leo T.",BEH,Driver,General Services,400.00/day,66,"26,400.00",M
+"Fadamig, Thea Faith F.",BEH,Medical Technologist,General Services,500.00/day,66,"33,000.00",F
+"Floro, Rhodelyn P.",BEH,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Francisco, Ellen Mae G.",BEH,Nurse ,General Services,600.00/day,66,"39,600.00",F
+"Gabayeron, Jeremae P.",BEH,IT Personnel,General Services,420.00/day,66,"27,720.00",F
+"Gallego, Faith Angelie A.",BEH,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gaborno, Charry Bell D.",BEH,Food Worker,General Services,345.00/day,66,"22,770.00",F
+"Galon, Shaira A.",BEH,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gamilong, Omega T.",BEH,Food Worker,General Services,345.00/day,66,"22,770.00",F
+"Pamillaran, Phoebe G.",BEH,Nursing Attendant,General Services,375.00/day,66,"24,750.00",F
+"Parcon, Ramon G. Jr.",BEH,Garbage Collector,General Services,375.00/day,66,"24,750.00",M
+"Pelasol, Jessie",BEH,Watchman ,General Services,375.00/day,66,"24,750.00",F
+"Penit, Fraida D.",BEH,Accounting Clerk,General Services,375.00/day,66,"24,750.00",F
+"Porras, Scatty Jinn P.",BEH,Pharmacy Aide,General Services,375.00/day,66,"24,750.00",F
+"Rafil, Ronald M.",BEH,Garbage Collector,General Services,375.00/day,66,"24,750.00",M
+"Ramirez, Ruel T.",BEH,Driver,General Services,400.00/day,66,"26,400.00",M
+"Silao, Francis A.",BEH,Garbage Collector,General Services,375.00/day,66,"24,750.00",M
+"Sollano, Bernadine Mae O.",BEH,Nursing Attendant,General Services,375.00/day,66,"24,750.00",F
+"Tanaman, Dionito E.",BEH,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Umani, Fredy C.",BEH,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Espiritu, Mercedes",DCGNMC,Community Development Worker,DCGNMC General Services,475.00/day,66,"31,350.00",F
+"Arjona, Melchor",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Cabaling, Mary Ann",DCGNMC,Admin Assistant - CSR,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Cabanggay, Carmen",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Cabanggay, Lymie Grace",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Calvez, Daniel Patrick",DCGNMC,Medical Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",M
+"Clarito, Frenz Troy",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",M
+"Cordova, Fred",DCGNMC,Utility Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Ga, Daniel",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",M
+"Gaborno, Fria Ezra",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Gahap, Geviel ",DCGNMC,Watchman,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Galanza, Rominick ",DCGNMC,Admin Assistant - Admitting,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Galila, Maikyll Von Ryan",DCGNMC,Medical Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",M
+"Galvez, Angel Louise",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Gamuzaran, Ricky",DCGNMC,Utility Worker - Ward,DCGNMC General Services,600.00/day,66,"39,600.00",M
+"Ganadores, Thelma ",DCGNMC,Admin Assistant - Admitting,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Gandas, Richel",DCGNMC,Utility Worker - OR/DR,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Gange, Judith",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Gapoy, Mathew",DCGNMC,Admin Assistant - CSR,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Gentizon, Gleanne",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Gonzaga, Demcy ",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Grandflor, Eva",DCGNMC,Pharmacy Aide,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Herrera, Lawrence ",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Jardeleza, Regina",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Lapining, Roger",DCGNMC,Laborer (Waste Segregator),DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Llamas, Hazel Mae",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Pahilagao, Khyl Christian",DCGNMC,Utility Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Publico, Rowella",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Roga, Sheryl",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Rubino, Jaycel Kris",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Salvania, Rikka May",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Segobre, Alfie ",DCGNMC,Watchman,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Sola, Catherine ",DCGNMC,Pharmacy Aide,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tacadao, Leah Mae",DCGNMC,Admin Assistant,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tacdoro, Fritzen",DCGNMC,Radiologic Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Taguebe, Dominga",DCGNMC,Utility Worker - Ward,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Trabado, Lea Jane",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Tolondon, Genelin ",DCGNMC,Admin Assistant - CSR,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Yaeso, Charlene Mae",DCGNMC,Nurse,DCGNMC General Services,600.00/day,66,"39,600.00",F
+"Diamante, Regine Mae",DCGNMC,Admin Assistant-Supply Office,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Ferrer, Ronald",DCGNMC,Electrician,DCGNMC General Services,500.00/day,66,"33,000.00",M
+"Mozones, Ailene ",DCGNMC,Admin Assistant-Supply Office,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gonzaga, Lenly",DCGNMC,Dental Aide,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Padilla, Czarinne Cleia",DCGNMC,Admin Assistant-Supply Office,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Suarez, Sheila",DCGNMC,Messenger-HR,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Rosales, Charlene",DCGNMC,Dental Aide,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Caguimbay, Marigold ",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Cuajotor, Vincent Neihl",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Dalisay, Ginalyn",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Efondo, Rosalia",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gallo, Clarence Jewel",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gamilong, Ashley ",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Ga�aca, April",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gange, Mera",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Martir, Jolyn",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Mission, Rona Mae ",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Salongcong, Cirlen",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Salongcong, Nenette",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tacuyan, Christine Jamela",DCGNMC,Admin. Assistant (Credit and Collection) ,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tahum, Ever Monica",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tanaleon, Rosemarie",DCGNMC,Accounting Clerk,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Auditor, Leiden Joy ",DCGNMC,Admin Assistant - OPD,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Bala-od, Dyrene Joy",DCGNMC,IT Personnel,DCGNMC General Services,420.00/DAY,66,"27,720.00",F
+"Briones, Benito",DCGNMC,PT Assistant,DCGNMC General Services,345.00/day  ,66,"22,770.00",M
+"Buencuchillo, Erica",DCGNMC,Admin Assistant - Records,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Calisin, Hannah Joy",DCGNMC,Admin Assistant - Admitting,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Cortes, Ellen Joyce",DCGNMC,Data Encoder,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Ebreo, Angelie",DCGNMC,Admin Assistant - Records,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Epitome, Mariveth",DCGNMC,Admin Assistant - Radiology,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Espino, Michelle",DCGNMC,Admin Assistant - Malasakit,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Espinosa, Rudy",DCGNMC,Messenger / Institutional Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Gabito, Lorenzo Jr.",DCGNMC,Laundry Worker,DCGNMC General Services,355.00/day  ,66,"23,430.00",M
+"Gaitan, Czai",DCGNMC,Admin Assistant - OPD,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gaitan, Czar",DCGNMC,Food Server Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Galanza, Redan",DCGNMC,Skilled Laborer-Cook,DCGNMC General Services,400.00/day,66,"26,400.00",M
+"Galapin, Wenna",DCGNMC,Skilled Laborer-Cook,DCGNMC General Services,400.00/day,66,"26,400.00",F
+"Gange, Ann Christine Mae ",DCGNMC,Admin Assistant - Records,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Galido, JV Christian Jones ",DCGNMC,Admin Assistant - ICT,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gallos, Regie ",DCGNMC,Laborer (Waste Segregator),DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Galon, Leah",DCGNMC,Skilled Laborer-Cook,DCGNMC General Services,400.00/day,66,"26,400.00",F
+"Galon, Louie",DCGNMC,Carpenter,DCGNMC General Services,500.00/day  ,66,"33,000.00",M
+"Gamboa, Cindy ",DCGNMC,Admin Assistant - OPD,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gambol, Mary Angel Grace",DCGNMC,Admin Assistant - Laboratory,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Ganancial, Kayzie Marie Jaye",DCGNMC,Physical Therapist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Gaurana, Jen-Jen ",DCGNMC,Food Server Worker,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Genanda, Jobert",DCGNMC,Carpenter,DCGNMC General Services,500.00/day  ,66,"33,000.00",M
+"Gepilano, Fritzie",DCGNMC,Skilled Laborer-Cook,DCGNMC General Services,400.00/day,66,"26,400.00",F
+"Gonzales, John Philip",DCGNMC,Food Server Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Gustilo, John Michael",DCGNMC,IT Personnel,DCGNMC General Services,420.00/day  ,66,"27,720.00",M
+"Jalandoni, Cheryllynn",DCGNMC,Physical Therapist,DCGNMC General Services,500.00/day  ,66,"33,000.00",F
+"Kilayco, Mari Antonett",DCGNMC,Data Encoder - Records,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Lagos, Gina ",DCGNMC,Laborer - CSR,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Lagura, Rochelle",DCGNMC,Admin Assistant - NSO,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Lizardo, John Rey",DCGNMC,Data Encoder - Records,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Lubog, Mary Jean ",DCGNMC,Skilled Laborer-Cook,DCGNMC General Services,400.00/day,66,"26,400.00",F
+"Macawili, Timothy",DCGNMC,Admin Assistant,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Minasalbas, Shayne",DCGNMC,Physical Therapist,DCGNMC General Services,500.00/day,66,"33,000.00",F
+"Monta�ez, Deomedes",DCGNMC,Messenger,DCGNMC General Services,345.00/day  ,66,"22,770.00",M
+"Olandio, Jessa May",DCGNMC,Data Encoder - PHIC,DCGNMC General Services,345.00/day  ,66,"22,770.00",F
+"Pasuquin, Cyriel",DCGNMC,Admin Assistant - Malaskit,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Pugao, Alen Rose",DCGNMC,Admin Assistant - Malaskit,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Sabares, Rica Ann",DCGNMC,Admin Assistant - HR,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Salarza, Jackie",DCGNMC,Admin Assistant - HR,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Saludes, April Rose",DCGNMC,Admin Assistant - Laboratory,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tahan, Sherilyn",DCGNMC,Admin Assistant - Admin,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Tanaleon, Mary Jane ",DCGNMC,Laundry Worker,DCGNMC General Services,355.00/day  ,66,"23,430.00",F
+"Sayco, Ariel",DCGNMC,Data Encoder,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Del Rio, Emie Jun",DCGNMC,Pharmacy Aide,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Delgado, Richard",DCGNMC,Laborer,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Galvez, Jezyl Faith",DCGNMC,Admin Assistant - Malaskit,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Efondo, Jasmin",DCGNMC,Admin Assistant - OPD,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Galfo, Willy James",DCGNMC,Utility Worker,DCGNMC General Services,345.00/day,66,"22,770.00",M
+"Ganancial, Karen Mae",DCGNMC,Admin Assistant - Records,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Gange, Eduard",DCGNMC,Laborer (Waste Collection),DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Gapoy, Ma. Phoebe Kately",DCGNMC,Admin Assistant - OPD,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Guilaran, Jocie",DCGNMC,Utility Worker,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Paronelmo, Evangeline ",DCGNMC,Food Worker,DCGNMC General Services,345.00/day,66,"22,770.00",F
+"Rodriguez, Felipe Jr.",DCGNMC,Laborer,DCGNMC General Services,375.00/day ,66,"24,750.00",M
+"Getulle, Ma. Angelica",DCGNMC,Admin Assistant - PHIC,DCGNMC General Services,375.00/day ,66,"24,750.00",F
+"Alavata, Cheradee",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Basco, Benjie",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Delos Reyes, Kristine Gale",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Ebalan, Melchie Jane",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Ferrer, Harold ",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Gabales, Ivanmarie",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Gallarde, Rambo",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Galvez, Jackie Lou",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Gange, Sharein",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Gepolongca, Cherry Ann",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Hulleza, Jeddah",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",F
+"Paredes, Romil ",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Villanueva, Justin Loen",DCGNMC,Nursing Attendant- General Ward,DCGNMC General Services,375.00/day,66,"24,750.00",M
+"Lechuza, Juliet S.",BAC,Legal Assistant,BAC Operationalization 2025,425.00/day,66,"28,050.00",F
+"Gotera, Jose Jhen A.",BAC,Admin Assistant,BAC Operationalization 2025,375.00/day,66,"24,750.00",M
+"Estanislao, Wenna Jane F.",Legal,Legal Assistant,General Services,425.00/day,66,"28,050.00",F
+"Galvan, Art I.",Legal,Legal Assistant,General Services,425.00/day,66,"28,050.00",M
+"Tellermo, Michelle R.",Legal,Legal Assistant,General Services,425.00/day,66,"28,050.00",F
+"Monreal, Joey E.",Legal,Administrative Staff,General Services,375.00/day,66,"24,750.00",M
+"Migar, Jennifer E.",Legal,Administrative Staff,General Services,375.00/day,66,"24,750.00",F
+"Talabero, Analyn D.",GHIP,Community Development Worker,969 GHIP Other Expenses,475.00/day,66,"31,350.00",F
+"Galas, Joylyn S.",GHIP,Community Development Worker,969 GHIP Other Expenses,475.00/day,66,"31,350.00",F
+"Perez, Benedick G.",GHIP,Admin. Assistant (San Lorenzo),969 GHIP Other Expenses,375.00/day,66,"24,750.00",M
+"Arquilola, Neko G.",GHIP,Admin. Assistant (Buenavista),969 GHIP Other Expenses,375.00/day,66,"24,750.00",M
+"Amante, Heero Diommele G.",GHIP,Admin. Assistant (Jordan),969 GHIP Other Expenses,375.00/day,66,"24,750.00",M
+"Ello, Jhoanna Marie D.",GHIP,Admin. Assistant (Nueva Valencia),969 GHIP Other Expenses,375.00/day,66,"24,750.00",F
+"Maravilla, Jenelyn T.",PPDO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Garmay, Elven C.",PPDO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",M
+"Galon, Jahnnen Trisha G.",PPDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Malan, Ivy Joy G.",PPDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Asencio, Michelle Y.",PSWDO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",F
+"Dalisay, Ma. Luteria",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Donessa, Krizelle Angeli G.",PSWDO,Community Development Worker,General Services,475.00/day,66,"31,350.00",F
+"Efondo, Ma. Nieva Jean ",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Gallego, Leorevic T.",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",M
+"Galuno, Wendy E.",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Ganzon, Vilma E.",PSWDO,Social Welfare Aide,General Services,375.00/day,66,"24,750.00",F
+"Gedalanga, Robert S.",PSWDO,Admin. Assistant,General Services,375.00/day,66,"24,750.00",M
+"Gil, Rosabelle D.",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Mananap, Jojo L.",PSWDO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Muya, Jouielyn Joy T.",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Urbano, Rhoda Z.",PSWDO,Social Welfare Assistant,General Services,455.00/day,66,"30,030.00",F
+"Denuyo, Conchita",PTEDC,Community Development Worker,2025 Operationalization of Provincial Training & Enterprise Development Center Program,475.00/day,66,"31,350.00",F
+"Pama, Jonathan A.",PTEDC,Admin. Assistant,2026 Operationalization of Provincial Training & Enterprise Development Center Program,375.00/day,66,"24,750.00",M
+"Galimba, Karen",PTEDC,Community Development Worker,2027 Operationalization of Provincial Training & Enterprise Development Center Program,475.00/day,66,"31,350.00",F
+"Yoro, Roanmar Philip S.",PTEDC,Community Development Worker,2028 Operationalization of Provincial Training & Enterprise Development Center Program,475.00/day,66,"31,350.00",M
+"Alsosa, Jaime G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Asgar, Irene B.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",F
+"Basco, Regie F.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Bernardo, Ursus F.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Bungar, Fermin D.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Cantua, Renerio",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Cartel, Raymond M.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Castillo, Jaime G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Castillo, Joshua V.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Chiva, Denis C.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Cordero, Sherwin E.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"De Arroz, John Ian",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Deles, Afton Stephen",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Dionela, Ma. Sharon G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",F
+"Ebreo, Emmanuel G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Echalar, Jessie G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Edang, Cyril Anthony P.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Edullan, Maximo G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Espenitra, Kin Jame V.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Fernandez, Kent G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gabaleo, Jeson B.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gabasa, Bernabe A.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gabinera, Ma. Sara Mae",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",F
+"Gagante, Marlon",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Galiza, Rennie",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gallego, Christian",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Galon, Junelo",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gamayon, Gemma Mae V.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",F
+"Gamilong, Flavio G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Ganadores, Cyrex O.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Ganancial, Helmer C.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Garganera, Jubert G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Garque, Elvin G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gedaca, Victorio G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gelsanao, Meljoe",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Genilan, Robert S.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gimotea, Edsel",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gonzaga, Larry M.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Gregorio, Keith Lorenz Adria",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Juatas, Vanz Edwin",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Lamata, Stephen G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Magallanes, Niel F.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Malay, Rodel M.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Monton, Nathan Jun G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Nares, Junrey",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Nava, Nonilon G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Omani, Reynaldo",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Osana, Omar",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Sagre, Rudy F.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Samodio, Stephen L.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Sarmiento, Ermin Jr. M.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Subido, John Remond G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Talaban, Jomar E.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Valencia, Van P.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Vargas, Jackeline Rhoda G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",F
+"Vivero, Floyd",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Villar, Alfred G.",TASKFORCE,Enforcer,969 Other Expenses Taskforce CY 2025,345.00/day,66,"22,770.00",M
+"Arante, Carlito J.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Barte, Arturo C.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Bandiez, Ian Jeff Remz G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Balacanta, John Christian E.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Ballarta, Fredie",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Cabanggay, Raymund G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Cagayan, Norman G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Camral, Joemarie",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Castor, Rhod T.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Dador, Ernesto B.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Dalisay, Michael I.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Daruca, Robert",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Elosendo, Mark Anthony P.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Enriquez, Lougie",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Epetito, Sherluck G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Esma�a, Eddie Jr. G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Espi�a, Jaymart G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Figueroa, Michael G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gabasa, Russel",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gallego, Romel L.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gallo, Wutrich",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Galon, Bernardo A.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Galon, Luvizmindo",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gamuzaran, Reydan G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Ganancial, Kenneth I.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gandecila, Jenny A.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",F
+"Gandecila, Shovel",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gange, Cyrus S.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gange, Jonathan",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gapoy, Ely G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gaquit, Arnold G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Garganera, Noel G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Garganza, Gemnard",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Garmay, Kimp G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gatoc, Roland",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gedaca, John Ryan V.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gemalague, Ryan G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Go, Wally S.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gonzaga, Agustin",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Gonzales, John E.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Granada, Rodrigo G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Herrera, James G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Hitalla, Jessie S.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Infante, John Fritz",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Jimenez, Romy D.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Jumawan, Hansel B.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Macariza, Ferdinand G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Martirez, Roel G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Molate, Melvin G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Nu�ez, Wlson M.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Pauchano, Bobby Paul G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Ramos, Alexander F.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Rodriguez, Rey M.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Rubido, Romeo",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Santiago, Ricky S.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Sapio, Eve Jay",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Sayco, Jaynor G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Socamo, Amsel Vic J.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Sol, Johny S.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Solis, Sherwin B.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Suarez, Dioscoro Sr.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Talaban, Resyl T.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Tamonan, Marlon M.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Tagacay, Jeremy G.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Yanguas, Adonis M.",GO/Taskforce,Watchman,General Services,375.00/day,66,"24,750.00",M
+"Alabado, Jimboy",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Alip, Joseph",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Alsosa, Arnel",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Alsosa, Arthur",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Andaluz, Aguinaldo Jr.",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Arcenio, Keyzel",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",F
+"Balanay, Leoniel",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Bartolo, Leo",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Buendia, Rollen",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Cabanggay, Edward Vahn",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Caro, Jamaella Jade",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",F
+"Castillo, Edmon",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Dalisay, Marvin",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Delgado, Roger",PEO,HEO,General Services,475.00/day,66,"31,350.00",M
+"Epelipcia, Elmer",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Epelipcia, Joedyra",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Espinetra, Winson",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Gacho, Paul",PEO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Galanto, Charmaine",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Galaura, Louela Joy",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",F
+"Galila, Hannah Nicole",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",F
+"Gallo, Ronnie",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Galon, Hernan Von Joshua",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Galvan, Romuel",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Galve, Remus",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Gambalan, Rudy",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Gania, John Michael",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",M
+"Gania, Rosel",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Gapoy, Albino",PEO,HEO,General Services,475.00/day,66,"31,350.00",M
+"Garde, Jergevins",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Gardose, Joebert",PEO,HEO,General Services,475.00/day,66,"31,350.00",M
+"Garganera, Jaffrey",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",M
+"Garque, Jhonny",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Gaurana, Georgie",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Gomez, Wilfredo Jr.",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",M
+"Gonzaga, Ariel",PEO,HEO,General Services,475.00/day,66,"31,350.00",M
+"Gonzales, Orovelle",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Guerero, Mar",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Guzman, Delna",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Hallegado, James",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Ibieza, Jessa",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Jacilldo, Kino",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Jimenez, Michael",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Labordo, Aivan",PEO,Driver,General Services,400.00/day,66,"26,400.00",M
+"Macalalag, Jissa",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Mahilum, Charles Paul",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Malic, Josephine",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Miogue, Gerry",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Napano, Domingo Jr.",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Norico, Alfie",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Pahilagao, Ariane",PEO,Laborer,General Services,375.00/day,66,"24,750.00",F
+"Palec, Michael",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Patanindagat, Lemar",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Porras, Gelmar",PEO,Laborer,General Services,375.00/day,66,"24,750.00",M
+"Salazar, Faustino",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Salazar, Justin",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Salcedo, Fernando",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Sale, Regine Ann",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Sioting, Raffy",PEO,HEO,General Services,475.00/day,66,"31,350.00",M
+"Sorongon, Jinehya",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",F
+"Tacdoro, Angelo",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Tamonan, Ronald",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Tamson, John Rey",PEO,Eng'g Asst.,General Services,700.00/day,66,"46,200.00",M
+"Tanollo, Jarry",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Vargas, Nicole John",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",F
+"Vasques, Matt",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Vasquez, Ronnel",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",M
+"Villavicencio, Angel Grace",PEO,Eng'g Aide,General Services,600.00/day,66,"39,600.00",F
+"Yanguas, Lee Steven",PEO,Skilled Laborer,General Services,400.00/day,66,"26,400.00",M
+"Yanguas, Mary Jean",PEO,Admin Asst.,General Services,375.00/day,66,"24,750.00",F
+"Aleman, Danilo",PEO,Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),375.00/day,66,"24,750.00",M
+"Apelado, Alex",PEO,Carpenter,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Endencio, Ronald",PEO,Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),375.00/day,66,"24,750.00",M
+"Estemo, Baby Yhen",PEO,Eng'g. Aide,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),600.00/day,66,"39,600.00",F
+"Gabasa, Jojie",PEO,Mason,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Gabasa, Kervie",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Gabasa, KJ",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Gabasa, Roque Jr.",PEO,Painter,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Gallano, Diomedes",PEO,Carpenter,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Gamboa, Rommel",PEO,Painter,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Garovillo, Jessie Rey",PEO,Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),375.00/day,66,"24,750.00",M
+"Garque, Rey",PEO,Mason,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Gepolongca, Aurelio",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Panimoto, Joven",PEO,Mason,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Pedrajas, Jan Paul",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Pe�afiel, June P.",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Salcedo, Jeric",PEO,Skilled Laborer,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),400.00/day,66,"26,400.00",M
+"Tacda, Froilan",PEO,Carpenter,Support to Provincial Flagship Program and Projects (Kabataan FIRST Agenda),500.00/day,66,"33,000.00",M
+"Gamlanga, Sunshine",NVHS,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Cabico, Jimmel",COA/GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Sol, Sanelie",COA/GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Jalandoni, Sheila Mae",COA/GO,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Gegalao, Jaylord",PCA,Admin Assistant,General Services,375.00/day,66,"24,750.00",M
+"Salazar, Selina",CDA,Admin Assistant,General Services,375.00/day,66,"24,750.00",F
+"Dalisay, VJ Angelie L.",DCGNMC,Medical Technologist,DCGNMC General Services,500.00/day,66,"33,000.00",M

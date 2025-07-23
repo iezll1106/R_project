@@ -3,7 +3,7 @@ library(tidyverse)
 library(dplyr)
 
 # Print welcome message
-print("Hello, welcome to R World!")
+print("Hello, Welcome to R World!")
 
 # Read CSV into consistent variable name
 employee_data <- read.csv(

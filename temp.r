@@ -38,3 +38,6 @@ employee_data <- employee_data %>%
 
 # Show new columns
 head(employee_data[, c("total_salary", "salary_level")])
+
+# Add this line to open the full dataset in a spreadsheet viewer
+View(employee_data)

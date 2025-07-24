@@ -19,7 +19,7 @@ head(employee_data)
 employee_data <- employee_data %>%
   rename_with(~ gsub("\\.", "_", .x)) %>%
   rename_with(tolower) %>%
-  rename_with(stringr::str_trim)  # ✅ Remove leading/trailing spaces
+  rename_with(stringr::str_trim)  # Remove leading/trailing spaces
 
 # Convert total_salary to numeric
 employee_data <- employee_data %>%
@@ -47,13 +47,18 @@ for (office in offices) {
   cat(paste(" -", office, ":", count, "employees\n"))
 }
 
-# Average salary by designation
-avg_salary <- employee_data %>%
-  group_by(designation) %>%
-  summarise(average_salary = mean(total_salary, na.rm = TRUE))
+# Clean rate_day: remove non-numeric characters (except dot and digits)
+employee_data <- employee_data %>%
+  mutate(rate_day = gsub("[^0-9.]", "", rate_day),  # remove non-numeric except '.'
+         rate_day = as.numeric(rate_day))           # convert to numeric
 
-cat("\nAverage Salary by Designation:\n")
-print(avg_salary)
+avg_rate_by_office <- employee_data %>%
+  group_by(office) %>%
+  summarise(average_rate_day = mean(rate_day, na.rm = TRUE))
+
+cat("\n Average Rate per Day by Office:\n")
+print(avg_rate_by_office)
+View(avg_rate_by_office) # Spreadsheet view
 
 # Distribution by office and gender
 gender_dist <- employee_data %>%

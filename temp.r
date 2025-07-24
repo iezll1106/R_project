@@ -5,9 +5,12 @@ library(dplyr)
 # Print welcome message
 print("Hello, Welcome to R World!")
 
-# Read CSV into consistent variable name
+# Load 'here' package to use relative paths
+library(here)
+
+# Read CSV using a relative path
 employee_data <- read.csv(
-  "C:/Users/P C/Documents/GitHub/R_project/pgg_joemployees.csv"
+  here("pgg_joemployees.csv")
 )
 
 # Show structure and class

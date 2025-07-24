@@ -26,4 +26,4 @@ Make a list of websites that you found helpful in this project
 # Future Work
 
 Make a list of things that you need to fix, improve, and add in the future.
-- Normalize Gender Comparison (Case-Insensitive)
+- combine all summaries and plots into an R Markdown report

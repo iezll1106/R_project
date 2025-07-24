@@ -1,37 +1,31 @@
-# Load necessary libraries
 library(tidyverse)
 library(dplyr)
-
-# Print welcome message
-print("Hello, Welcome to R World!")
-
-# Load 'here' package to use relative paths
+library(ggplot2)
 library(here)
 
-# Read CSV using a relative path
-employee_data <- read.csv(
-  here("pgg_joemployees.csv")
-)
+# Welcome messages
+print("Hello, Welcome to R World!")
+cat("Welcome to PGG Employee Salary Analyzer!\n\n")
 
-# Show structure and class
+# Read CSV
+employee_data <- read.csv(here("pgg_joemployees.csv"))
+
+# Inspect data
 glimpse(employee_data)
-
-# Ensure column name matches actual header
 print(class(employee_data$designation))
-
-# Print first 5 rows
 head(employee_data)
 
-# Rename columns: convert dot notation to snake_case and lowercase
+# Rename columns: fix dot notation, lowercase, and trim spaces
 employee_data <- employee_data %>%
   rename_with(~ gsub("\\.", "_", .x)) %>%
-  rename_with(tolower)
+  rename_with(tolower) %>%
+  rename_with(stringr::str_trim)  # ✅ Remove leading/trailing spaces
 
-# Clean Total_Salary (remove commas and convert to numeric)
+# Convert total_salary to numeric
 employee_data <- employee_data %>%
   mutate(total_salary = as.numeric(gsub(",", "", total_salary)))
 
-# Add salary level column using case_when
+# Add salary level
 employee_data <- employee_data %>%
   mutate(salary_level = case_when(
     total_salary >= 30000 ~ "High",
@@ -39,8 +33,59 @@ employee_data <- employee_data %>%
     TRUE ~ "Low"
   ))
 
-# Show new columns
+# View preview
 head(employee_data[, c("total_salary", "salary_level")])
-
-# Add this line to open the full dataset in a spreadsheet viewer
 View(employee_data)
+
+# --- Extended Analysis Below ---
+
+# Total employees by office
+offices <- unique(employee_data$office)
+cat("\nTotal Employees by Office:\n")
+for (office in offices) {
+  count <- nrow(filter(employee_data, office == !!office))
+  cat(paste(" -", office, ":", count, "employees\n"))
+}
+
+# Average salary by designation
+avg_salary <- employee_data %>%
+  group_by(designation) %>%
+  summarise(average_salary = mean(total_salary, na.rm = TRUE))
+
+cat("\nAverage Salary by Designation:\n")
+print(avg_salary)
+
+# Distribution by office and gender
+gender_dist <- employee_data %>%
+  group_by(office, gender) %>%
+  summarise(count = n())
+
+cat("\nGender Distribution per Office:\n")
+print(gender_dist)
+View(gender_dist)
+
+# Total count by gender
+gender_totals <- employee_data %>%
+  group_by(gender) %>%
+  summarise(total = n())
+
+cat("\nTotal Employees by Gender:\n")
+print(gender_totals)
+View(gender_totals)
+
+# Count of high earners
+high_earners <- filter(employee_data, salary_level == "High")
+cat("\nNumber of High Earners (≥ 30000):", nrow(high_earners), "\n")
+
+# Plot: Salary Level Distribution
+ggplot(employee_data, aes(x = salary_level, fill = salary_level)) +
+  geom_bar() +
+  labs(title = "Employee Salary Levels", x = "Salary Level", y = "Count") +
+  theme_minimal()
+
+# Plot: Average salary by designation
+ggplot(avg_salary, aes(x = reorder(designation, -average_salary), y = average_salary)) +
+  geom_col(fill = "steelblue") +
+  coord_flip() +
+  labs(title = "Average Salary by Designation", x = "Designation", y = "Average Salary") +
+  theme_minimal()

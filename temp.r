@@ -82,6 +82,11 @@ View(gender_totals)
 high_earners <- filter(employee_data, salary_level == "High")
 cat("\nNumber of High Earners (≥ 30000):", nrow(high_earners), "\n")
 
+# Compute average salary by designation
+avg_salary <- employee_data %>%
+  group_by(designation) %>%
+  summarise(average_salary = mean(total_salary, na.rm = TRUE))
+  
 # Plot: Salary Level Distribution
 ggplot(employee_data, aes(x = salary_level, fill = salary_level)) +
   geom_bar() +

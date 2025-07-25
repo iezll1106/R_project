@@ -19,7 +19,7 @@ head(employee_data)
 employee_data <- employee_data %>%
   rename_with(~ gsub("\\.", "_", .x)) %>%
   rename_with(tolower) %>%
-  rename_with(stringr::str_trim)  # Remove leading/trailing spaces
+  rename_with(stringr::str_trim)
 
 # Convert total_salary to numeric
 employee_data <- employee_data %>%
@@ -49,8 +49,10 @@ for (office in offices) {
 
 # Clean rate_day: remove non-numeric characters (except dot and digits)
 employee_data <- employee_data %>%
-  mutate(rate_day = gsub("[^0-9.]", "", rate_day),  # remove non-numeric except '.'
-         rate_day = as.numeric(rate_day))           # convert to numeric
+  mutate(
+    rate_day = gsub("[^0-9.]", "", rate_day),
+    rate_day = as.numeric(rate_day)
+  )
 
 avg_rate_by_office <- employee_data %>%
   group_by(office) %>%
@@ -58,7 +60,7 @@ avg_rate_by_office <- employee_data %>%
 
 cat("\n Average Rate per Day by Office:\n")
 print(avg_rate_by_office)
-View(avg_rate_by_office) # Spreadsheet view
+View(avg_rate_by_office)
 
 # Distribution by office and gender
 gender_dist <- employee_data %>%
@@ -83,35 +85,39 @@ high_earners <- filter(employee_data, salary_level == "High")
 cat("\nNumber of High Earners (≥ 30000):", nrow(high_earners), "\n")
 
 # Compute average salary by designation
-avg_salary <- employee_data %>%
+avg_salary_by_designation <- employee_data %>%
   group_by(designation) %>%
   summarise(average_salary = mean(total_salary, na.rm = TRUE))
-  
+
 # Plot: Salary Level Distribution
 ggplot(employee_data, aes(x = salary_level, fill = salary_level)) +
   geom_bar() +
-  labs(title = "Employee Salary Levels", x = "Salary Level", y = "Count") +
+  labs(
+    title = "Employee Salary Levels",
+    x = "Salary Level",
+    y = "Count"
+  ) +
   theme_minimal()
 
 # Plot: Average salary by designation
-ggplot(avg_salary, aes(x = reorder(designation, -average_salary), y = average_salary)) +
+ggplot(
+  avg_salary_by_designation,
+  aes(x = reorder(designation, -average_salary), y = average_salary)
+) +
   geom_col(fill = "steelblue") +
   coord_flip() +
-  labs(title = "Average Salary by Designation", x = "Designation", y = "Average Salary") +
+  labs(
+    title = "Average Salary by Designation",
+    x = "Designation",
+    y = "Average Salary"
+  ) +
   theme_minimal()
 
 # --- Exporting Summary Reports to CSV ---
 
-# Save average salary by designation
-write.csv(avg_salary, "avg_salary_by_designation.csv", row.names = FALSE)
-
-# Save average rate per day by office
+write.csv(avg_salary_by_designation, "avg_salary_by_designation.csv", row.names = FALSE) # nolint: line_length_linter.
 write.csv(avg_rate_by_office, "avg_rate_by_office.csv", row.names = FALSE)
-
-# Save gender distribution by office
 write.csv(gender_dist, "gender_distribution_by_office.csv", row.names = FALSE)
-
-# Save total employees by gender
 write.csv(gender_totals, "gender_totals.csv", row.names = FALSE)
 
-cat("\n All summary reports have been saved as CSV files in your project folder.\n")
+cat("\n All summary reports have been saved as CSV files in your project folder.\n") # nolint: line_length_linter.

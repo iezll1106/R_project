@@ -99,3 +99,19 @@ ggplot(avg_salary, aes(x = reorder(designation, -average_salary), y = average_sa
   coord_flip() +
   labs(title = "Average Salary by Designation", x = "Designation", y = "Average Salary") +
   theme_minimal()
+
+# --- Exporting Summary Reports to CSV ---
+
+# Save average salary by designation
+write.csv(avg_salary, "avg_salary_by_designation.csv", row.names = FALSE)
+
+# Save average rate per day by office
+write.csv(avg_rate_by_office, "avg_rate_by_office.csv", row.names = FALSE)
+
+# Save gender distribution by office
+write.csv(gender_dist, "gender_distribution_by_office.csv", row.names = FALSE)
+
+# Save total employees by gender
+write.csv(gender_totals, "gender_totals.csv", row.names = FALSE)
+
+cat("\n All summary reports have been saved as CSV files in your project folder.\n")
